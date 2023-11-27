@@ -4,6 +4,8 @@ PgAdmin4 installation script for linux
 
 ## Usage
 
+Requeired `sudo` and `curl`.
+
 ### Using Curl
 
 ````bash
