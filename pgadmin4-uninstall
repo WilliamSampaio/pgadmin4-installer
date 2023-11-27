@@ -4,3 +4,4 @@ sudo rm -rf /var/log/pgadmin
 sudo rm -rf $HOME/.pgadmin4
 sudo rm /usr/bin/pgadmin4
 sudo rm /usr/bin/pgadmin4-uninstall
+echo -e "\nPgAdmin4 successfully uninstalled!"
