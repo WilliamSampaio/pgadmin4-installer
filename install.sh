@@ -10,4 +10,4 @@ pip install pgadmin4
 sudo curl https://raw.githubusercontent.com/WilliamSampaio/pgadmin4-installer/master/pgadmin4 --output /usr/bin/pgadmin4
 sudo curl https://raw.githubusercontent.com/WilliamSampaio/pgadmin4-installer/master/pgadmin4-uninstall --output /usr/bin/pgadmin4-uninstall
 sudo chmod +x /usr/bin/pgadmin4
-pgadmin4
+echo 'PgAdmin4 successfully installed! Run: pgadmin4'
