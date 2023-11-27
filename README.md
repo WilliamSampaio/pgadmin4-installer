@@ -17,3 +17,9 @@ curl -s https://raw.githubusercontent.com/WilliamSampaio/pgadmin4-installer/mast
 ````bash
 wget -qO - https://raw.githubusercontent.com/WilliamSampaio/pgadmin4-installer/master/install.sh | bash
 ````
+
+## Uninstall
+
+````bash
+pgadmin4-uninstall
+````
